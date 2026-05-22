@@ -1,6 +1,6 @@
 # Week 1 Task: Rock, Paper, Scissors Game
 
-A minimal Python terminal game built for the GAIDS FlexiSAF Internship. 
+A Python terminal game built for the GAIDS FlexiSAF Internship. 
 
 ## Features
 * Handles user vs. computer interactions.
