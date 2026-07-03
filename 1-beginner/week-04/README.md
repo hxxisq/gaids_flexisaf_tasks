@@ -2,7 +2,7 @@
 
 # Week 04 Internship Tasks
 
-This repository contains the completed exercise for Week [X], which includes a data visualization script analyzing airline passenger trends.
+This repository contains the completed exercise for Week 04, which includes a data visualization script analyzing airline passenger trends.
 
 ## 1. Airline Passengers Data Visualization
 A data analysis project using `pandas`, `matplotlib`, and `seaborn` to visualize airline passenger data from the built-in Seaborn `flights` dataset.
@@ -17,4 +17,4 @@ A data analysis project using `pandas`, `matplotlib`, and `seaborn` to visualize
 ## Demo Video
 Watch the walkthrough here: [Loom Recording](https://www.loom.com/share/6a6f35cd5866466988236e7427a85455)
 
-*Developed for GAIDS Internship — Week [X] Task.*
+*Developed for GAIDS Internship — Week 04 Task.*
