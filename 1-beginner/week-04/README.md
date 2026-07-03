@@ -1,6 +1,6 @@
-# GAIDS Week [X] – Airline Passenger Data Visualization
+# GAIDS Week [04] – Airline Passenger Data Visualization
 
-# Week [X] Internship Tasks
+# Week [04] Internship Tasks
 
 This repository contains the completed exercise for Week [X], which includes a data visualization script analyzing airline passenger trends.
 
