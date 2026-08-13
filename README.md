@@ -42,9 +42,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Certificate
+## Certificates
 
-Completion certificate for *Introduction to Generative AI & Data Science* is in [`0-certificate/`](0-certificate).
+Completion certificates are in [`0-certificate/`](0-certificate):
+
+- *Introduction to Generative AI & Data Science*
+- *Communication & Emotional Intelligence for Tech Professionals*
 
 ## Tech Stack
 
